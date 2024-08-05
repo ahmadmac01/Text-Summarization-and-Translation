@@ -1,6 +1,6 @@
-# Text-Summarization-and-Translation
+# Novel Text-Summarization-and-Translation
 
-This project provides a simple web application for text summarization and translation using Streamlit and Hugging Face Transformers library. The app allows users to input a paragraphs of text, generate a concise summary in English, and then translate that summary into Urdu.
+This project provides a simple web application for novel text summarization and translation using Streamlit and Hugging Face Transformers library. The app allows users to input a paragraphs of Novel, generate a concise summary in English, and then translate that summary into Urdu.
 
 ## Features
 
